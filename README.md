@@ -3,7 +3,7 @@ ___
 ## TODO: 
   * MAKE DATA (WHAT IT BE??)
   * MAy BE IT BE BINANCE PAIRS ??? 
-__
+___
 
 ## We can do TWO BRANCHES from the START branch, and MAKE COLLABORATION by MERGE IN START AFTER CONSENSUS
 
