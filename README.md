@@ -2,7 +2,7 @@
 ___
 ## TODO: 
   * MAKE DATA (WHAT IT BE??)
-  * BA BE IT BE BINANCE PAIRS ??? 
+  * MAy BE IT BE BINANCE PAIRS ??? 
 
 
 
