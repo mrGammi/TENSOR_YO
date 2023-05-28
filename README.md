@@ -1,10 +1,15 @@
-### GO DEPLOY TENSOR_FLOW IN OUR BRAINS
+#### GO DEPLOY TENSOR_FLOW IN OUR BRAINS
 ___
-## TODO: 
-  * MAKE DATA (WHAT IT BE??)
-  * MAy BE IT BE BINANCE PAIRS ??? 
+### TODO: 
+  * MAKE DOCUMENTATION 
+  * QUESTIONS == ANSWERS >> CODE COOKING
 ___
-
-## We can do TWO BRANCHES from the START branch, and MAKE COLLABORATION by MERGE IN START AFTER CONSENSUS
-
-
+#### IN [TENSOR_YO](https://github.com/mrGammi/TENSOR_YO/tree/data_mining) branch
+#### [/DOCS_ABOUT.md](https://github.com/mrGammi/TENSOR_YO/blob/data_mining/DOCS_ABOUT.md):
+  * [DATA PREPROCESSING] 
+  * [MODEL CHOISE]
+  * [EDUCATION OF MODEL]
+___
+#### [/MATH](https://github.com/mrGammi/TENSOR_YO/tree/data_mining/data_math)
+  * SOME SHEET ABOUT **DERIVATIVE**
+___
